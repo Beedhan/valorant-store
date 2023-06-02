@@ -114,7 +114,7 @@ export default function Home() {
               htmlFor="username"
               className="block mb-1 text-sm font-medium text-gray-900 dark:text-white"
             >
-              First name
+              Username
             </label>
             <input
               type="text"
@@ -130,7 +130,7 @@ export default function Home() {
               htmlFor="password"
               className="block mb-1 text-sm font-medium text-gray-900 dark:text-white"
             >
-              Last name
+              Password
             </label>
             <input
               type="password"
