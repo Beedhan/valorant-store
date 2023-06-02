@@ -1,3 +1,12 @@
 # Valorant Store Checker
 
-Need to refactor code and UI is the wrost
+Store checker for [Valorant](https://playvalorant.com)
+
+## Roadmap
+
+- Showing errors
+- Better UI
+
+## Acknowledgements
+
+- [Valorant.js](https://github.com/liamcottle/valorant.js)
